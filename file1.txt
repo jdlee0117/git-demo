@@ -1,2 +1,2 @@
 file1
-file1 (add from local)
+file1 (update from Github)
